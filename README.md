@@ -6,4 +6,7 @@
 *I just recreated UI pages
 *Other week I will implement database system and other properties
 *I will use Intent for data-transactions-flows
+![image](https://user-images.githubusercontent.com/101176588/163020548-66fb602c-391e-45ac-a085-7405764f0c13.png)
+I didnt set up the Volley and Other Intent operations
+But I create database conenction with Mysql you can check it.
 
